@@ -170,7 +170,7 @@ Although **Random Forest** achieved the highest training performance, it showed 
 
 **Logistic Regression** demonstrated stable and consistent results across training and testing datasets and is inherently suitable for binary classification. 
 
-###Therefore, **Logistic Regression** is selected as the final and comparatively better model for this project.
+### Therefore, **Logistic Regression** is selected as the final and comparatively better model for this project.
 
 
 
